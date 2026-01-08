@@ -1,4 +1,4 @@
-Atomsk Structure Generation Scripts for developing atomic structure in different shapes.     
+Atomsk Structure Generation Scripts for developing atomic structure in different shapes.      
 Download Link: https://atomsk.univ-lille.fr/dl.php 
 
   <img width="422" height="99" alt="image" src="https://github.com/user-attachments/assets/46b5cb7e-e069-4878-aa1e-0e1cf9b744a4" />
