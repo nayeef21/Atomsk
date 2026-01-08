@@ -12,6 +12,13 @@ The workflow follows three simple steps:
 1. Write Atomsk commands in a plain .txt file.
 2. Convert the .txt file into a .bat (batch) script.
 3. Run the .bat file to automatically generate atomic structures.
-4. output/ – Generated atomic structure files (.lmp, .xyz, cfg, etc.)
+4. output/ – Generated atomic structure files (.lmp, .xyz, .cfg, etc.)
 
+Requirements
 
+Atomsk installed and added to system PATH                                                                                                                                                                                        
+Windows OS                                                                                                                                                                                                                       
+Basic knowledge of molecular dynamics structures
+
+Tutorial for Begginers: 
+https://atomsk.univ-lille.fr/tutorials.php
