@@ -8,3 +8,8 @@ atomsk --create fcc 3.61 Cu orient [11-2] [1-10] [111] ^
 fccCu_halfsphere.lmp 
 atomsk --merge Z 2 bccTa_substrate.lmp fccCu_halfsphere.lmp ^
 Final.lmp
+
+%% If need two alloy in an initial gap add this before merge script
+#atomsk fccCu_halfsphere.lmp ^
+#-shift 0 0 10 ^
+#indenter_shifted.lmp
